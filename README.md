@@ -14,3 +14,10 @@ This repository contains a simple Python web scraping example.
 - Python
 - requests
 - BeautifulSoup
+
+## Usage
+
+Install dependencies:
+pip install requests beautifulsoup4
+Run script:
+python scraper.py
